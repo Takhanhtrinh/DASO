@@ -1,13 +1,20 @@
 <h6> DASO ios App </h6>
-<img width="406" alt="register" src="https://user-images.githubusercontent.com/16979642/35890731-da3f2972-0b55-11e8-91bb-eb84c0a05923.png">
-<img width="403" alt="login" src="https://user-images.githubusercontent.com/16979642/35890732-da54c0a2-0b55-11e8-9716-4ffb3d7d10b9.png">
-<img width="409" alt="add_new_player2" src="https://user-images.githubusercontent.com/16979642/35890733-da696b60-0b55-11e8-84c0-295199a37617.png">
-<img width="409" alt="add_new_player_1" src="https://user-images.githubusercontent.com/16979642/35890734-da7e609c-0b55-11e8-9597-c68f5c7a0fa6.png">
-<img width="407" alt="setting" src="https://user-images.githubusercontent.com/16979642/35890735-da91a332-0b55-11e8-93aa-853743687cc0.png">
-<img width="406" alt="leaderboard" src="https://user-images.githubusercontent.com/16979642/35890736-daa3b374-0b55-11e8-93d5-e1b3800a5e63.png">
-<img width="406" alt="goals" src="https://user-images.githubusercontent.com/16979642/35890737-dabb70b8-0b55-11e8-9c72-358663755a61.png">
-<img width="406" alt="perfomace" src="https://user-images.githubusercontent.com/16979642/35890738-dad5276a-0b55-11e8-928a-a885c3cb7415.png">
-<img width="408" alt="game_play_done" src="https://user-images.githubusercontent.com/16979642/35890739-dae77faa-0b55-11e8-9a86-9ff799865c6f.png">
-<img width="405" alt="game_play" src="https://user-images.githubusercontent.com/16979642/35890741-dafc2f0e-0b55-11e8-97e0-b20766645e5d.png">
-<img width="406" alt="choose game mode" src="https://user-images.githubusercontent.com/16979642/35890742-db114f38-0b55-11e8-9006-fab861a5c413.png">
-<img width="406" alt="menu" src="https://user-images.githubusercontent.com/16979642/35890743-db277880-0b55-11e8-94ab-229b0c89bbb2.png">
+![simulator screen shot - iphone x - 2018-01-15 at 20 42 52](https://user-images.githubusercontent.com/16979642/35890780-0561f436-0b56-11e8-82c9-40244657ae2d.png)
+![simulator screen shot - iphone x - 2018-01-15 at 20 42 20](https://user-images.githubusercontent.com/16979642/35890781-05760fac-0b56-11e8-8892-422041080068.png)
+![simulator screen shot - iphone x - 2018-01-15 at 20 42 16](https://user-images.githubusercontent.com/16979642/35890782-058c
+![simulator screen shot - iphone x - 2018-01-15 at 20 40 45](https://user-images.githubusercontent.com/16979642/35890795-069973c4-0b56-11e8-87e0-bc8c5d78ea07.png)
+<img width="335" alt="screen shot 2018-01-15 at 8 38 32 pm" src="https://user-images.githubusercontent.com/16979642/35890796-06ae98bc-0b56-11e8-9b4c-3fe00b8c63fd.png">
+
+c6ca-0b56-11e8-9811-e36c590311fd.png)
+![simulator screen shot - iphone x - 2018-01-15 at 20 42 12](https://user-images.githubusercontent.com/16979642/35890783-05a2990a-0b56-11e8-8f8f-9dc32cee0876.png)
+![simulator screen shot - iphone x - 2018-01-15 at 20 42 08](https://user-images.githubusercontent.com/16979642/35890784-05b77bd6-0b56-11e8-9955-b59899d309b0.png)
+![simulator screen shot - iphone x - 2018-01-15 at 20 42 03](https://user-images.githubusercontent.com/16979642/35890785-05c7e44e-0b56-11e8-8b1c-afc07b1e0106.png)
+![simulator screen shot - iphone x - 2018-01-15 at 20 41 52](https://user-images.githubusercontent.com/16979642/35890786-05de3438-0b56-11e8-9303-83ffaca2eb6f.png)
+![simulator screen shot - iphone x - 2018-01-15 at 20 41 48](https://user-images.githubusercontent.com/16979642/35890787-05f2d2bc-0b56-11e8-81f2-a1485e692441.png)
+![simulator screen shot - iphone x - 2018-01-15 at 20 41 45](https://user-images.githubusercontent.com/16979642/35890788-060459b0-0b56-11e8-8ff3-152374442bd9.png)
+![simulator screen shot - iphone x - 2018-01-15 at 20 41 41](https://user-images.githubusercontent.com/16979642/35890789-06151692-0b56-11e8-91d0-7969b44474c6.png)
+![simulator screen shot - iphone x - 2018-01-15 at 20 41 35](https://user-images.githubusercontent.com/16979642/35890790-062aad5e-0b56-11e8-897f-ed42b4cd21c1.png)
+![simulator screen shot - iphone x - 2018-01-15 at 20 41 29](https://user-images.githubusercontent.com/16979642/35890791-063f4cb4-0b56-11e8-9489-ae0ae7385804.png)
+![simulator screen shot - iphone x - 2018-01-15 at 20 41 22](https://user-images.githubusercontent.com/16979642/35890792-0655726e-0b56-11e8-9786-b3ca32ce8374.png)
+![simulator screen shot - iphone x - 2018-01-15 at 20 41 14](https://user-images.githubusercontent.com/16979642/35890793-066c0268-0b56-11e8-8385-9cfb3c865b68.png)
+![simulator screen shot - iphone x - 2018-01-15 at 20 41 05](https://user-images.githubusercontent.com/16979642/35890794-06828272-0b56-11e8-9a43-0e63e99acc71.png)
