@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Player+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Player+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Team+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Team+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Users+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Users+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:DASO.xcodeproj">
+   </FileRef>
+</Workspace>
