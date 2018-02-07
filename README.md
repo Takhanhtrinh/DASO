@@ -1,4 +1,4 @@
-###### DASO ios App </h6>
+## DASO ios App
 <img width="335" alt="screen shot 2018-01-15 at 8 38 32 pm" src="https://user-images.githubusercontent.com/16979642/35890867-503e175a-0b56-11e8-8e75-8f19c5ed9a88.png">
 <img width="335" alt="screen shot 2018-01-15 at 8 38 32 pm" src="https://user-images.githubusercontent.com/16979642/35890873-560eec54-0b56-11e8-9a2d-6d726eea4843.png">
 <img width="335" alt="screen shot 2018-01-15 at 8 38 32 pm" src="https://user-images.githubusercontent.com/16979642/35890875-58e1e968-0b56-11e8-9d33-37a1e4f254f8.png">
